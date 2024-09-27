@@ -1,0 +1,6 @@
+.menu-item:hover {
+  color: #808080;
+  text-decoration: underline;
+  text-underline-offset: 1rem;
+  text-decoration-color: #b5b5b5;
+}

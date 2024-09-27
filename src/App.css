@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", system-ui;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.section {
+  padding-top: 4rem;
+  margin: 0 10rem;
+  min-height: 96vh;
+}
+
+@media (max-width: 768px) {
+  .section {
+    margin: 0 1rem;
+    padding: 1rem;
+  }
+}
