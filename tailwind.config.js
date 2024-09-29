@@ -8,6 +8,7 @@ export default {
         black: "#000000",
         textGrey: "#555555",
         buttonGrey: "#353535",
+        borderGrey: '#a3a3a3',
       },
     },
   },

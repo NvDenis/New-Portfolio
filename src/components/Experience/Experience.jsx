@@ -4,10 +4,12 @@ const Experience = () => {
   return (
     <div className="section" id="experience">
       <p className="text-center text-textGrey text-base">Explore My</p>
-      <h1 className="text-5xl leading-[72px] font-semibold text-center ">Experience</h1>
+      <h1 className="text-5xl leading-[72px] font-semibold text-center ">
+        Experience
+      </h1>
 
       <div className="flex flex-wrap gap-8 my-8">
-        <div className="flex-[1_0_300px] border border-buttonGrey rounded-3xl p-4">
+        <div className="flex-[1_0_300px] border-2 border-borderGrey rounded-3xl p-4">
           <h2 className="text-textHover text-center text-[28px] mb-8 font-semibold">
             Frontend Skills
           </h2>
@@ -56,7 +58,7 @@ const Experience = () => {
             </div>
           </div>
         </div>
-        <div className="flex-[1_0_300px] border border-buttonGrey rounded-3xl p-4">
+        <div className="flex-[1_0_300px] border-2 border-borderGrey rounded-3xl p-4">
           <h2 className="text-textHover text-center text-[28px] mb-8 font-semibold">
             Backend Skills
           </h2>
